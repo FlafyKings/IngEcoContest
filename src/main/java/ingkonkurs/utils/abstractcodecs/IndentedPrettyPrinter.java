@@ -13,11 +13,6 @@ public class IndentedPrettyPrinter extends DefaultPrettyPrinter {
     }
 
     @Override
-    public DefaultPrettyPrinter createInstance() {
-        return new IndentedPrettyPrinter();
-    }
-
-    @Override
     public void writeObjectFieldValueSeparator(JsonGenerator jg) throws IOException {
         jg.writeRaw(": ");
     }

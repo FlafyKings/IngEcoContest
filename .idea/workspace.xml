@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e8e0fa-1059-4538-9fc8-6de44476cba8" name="Changes" comment="" />
+    <list default="true" id="a7e8e0fa-1059-4538-9fc8-6de44476cba8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ingkonkurs/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ingkonkurs/utils/abstractcodecs/IndentedPrettyPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ingkonkurs/utils/abstractcodecs/IndentedPrettyPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ingkonkurs/utils/exceptionhandler/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ingkonkurs/utils/exceptionhandler/ExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ingkonkurs/atmservice/AtmServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ingkonkurs/atmservice/AtmServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ingkonkurs/onlinegame/OnlineGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ingkonkurs/onlinegame/OnlineGameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ingkonkurs/transactions/TransactionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ingkonkurs/transactions/TransactionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ingkonkurs/utils/JsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ingkonkurs/utils/JsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania/atmservice/example_1_response.json" beforeDir="false" afterPath="$PROJECT_DIR$/zadania/atmservice/example_1_response.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania/onlinegame/example_response.json" beforeDir="false" afterPath="$PROJECT_DIR$/zadania/onlinegame/example_response.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania/transactions/example_response.json" beforeDir="false" afterPath="$PROJECT_DIR$/zadania/transactions/example_response.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,9 +49,96 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Programming2/IngKonkurs/zadania",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Programming2\IngKonkurs\zadania" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ingkonkurs.utils" />
+      <recent name="ingkonkurs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ingkonkurs in IngKonkurs">
+    <configuration name="AtmServiceTest.testService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IngKonkurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ingkonkurs.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ingkonkurs.atmservice" />
+      <option name="MAIN_CLASS_NAME" value="ingkonkurs.atmservice.AtmServiceTest" />
+      <option name="METHOD_NAME" value="testService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineGameTest.testService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IngKonkurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ingkonkurs.onlinegame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ingkonkurs.onlinegame" />
+      <option name="MAIN_CLASS_NAME" value="ingkonkurs.onlinegame.OnlineGameTest" />
+      <option name="METHOD_NAME" value="testService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionsTest.testService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IngKonkurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ingkonkurs.transactions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ingkonkurs.transactions" />
+      <option name="MAIN_CLASS_NAME" value="ingkonkurs.transactions.TransactionsTest" />
+      <option name="METHOD_NAME" value="testService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ingkonkurs in IngKonkurs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IngKonkurs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ingkonkurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ingkonkurs" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ingkonkurs in IngKonkurs" />
+        <item itemvalue="JUnit.AtmServiceTest.testService" />
+        <item itemvalue="JUnit.TransactionsTest.testService" />
+        <item itemvalue="JUnit.OnlineGameTest.testService" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +149,16 @@
       <updated>1684053145038</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
